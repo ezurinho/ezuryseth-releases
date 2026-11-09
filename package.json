@@ -1,0 +1,13 @@
+{
+  "name": "ezuryseth-releases",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Signed Ezuryseth release assets and HTTPS update feed",
+  "scripts": {
+    "build:feed": "node scripts/build-feed.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "4.1.0"
+  }
+}

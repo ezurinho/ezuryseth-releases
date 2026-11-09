@@ -1,0 +1,5 @@
+node_modules/
+site/
+release-assets/
+.DS_Store
+Thumbs.db
